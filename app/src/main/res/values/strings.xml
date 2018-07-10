@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">系统登录</string>
+    <string name="userLabel">用户名</string>
+    <string name="passwordLabel">密码</string>
+    <string name="loginLabel">登录</string>
+    <string name="logoutLabel">注销</string>
+    <string name="registerLabel">注册</string>
+</resources>
